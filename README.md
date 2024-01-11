@@ -1,9 +1,9 @@
 # Log
 
 * 11/01/24
- * Tambah
-  * Custom Boombox Music (Taruh file musik dalam folder yang tersedia `BepInEx\Custom Songs\Boombox Music`)
-  * Boombox Autonext
+    * Tambah
+        * Custom Boombox Music (Taruh file musik dalam folder yang tersedia `BepInEx\Custom Songs\Boombox Music`)
+        * Boombox Autonext
 
 * 08/01/24
     * Tambah
