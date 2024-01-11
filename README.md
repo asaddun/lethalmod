@@ -10,5 +10,7 @@
         * Suit (Adventure Time, Naruto, Bracken)
         * HD Lethal Company
         * LateCompany (Join tanpa restart)
+    * Hapus
+        * AdditionalSuits dan folder resAdditionalSuits
 
 * 07/01/24 (Terakhir Main)
