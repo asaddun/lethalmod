@@ -9,7 +9,6 @@
    * Tambah
       * Suit (Adventure Time, Naruto, Bracken)
       * HD Lethal Company
-      * LateCompany (Join tanpa restart)
    * Hapus
       * AdditionalSuits dan folder resAdditionalSuits
 
