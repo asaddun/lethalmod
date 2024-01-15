@@ -1,4 +1,4 @@
-# Log
+# To do
 
 * 11/01/24
    * Tambah
@@ -12,4 +12,8 @@
    * Hapus
       * AdditionalSuits dan folder resAdditionalSuits
 
-* 07/01/24 (Terakhir Main)
+# Log
+* 14/01/24
+  * Tambah
+      * LateCompany (Join tanpa restart)
+* 07/01/24
