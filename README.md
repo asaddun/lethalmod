@@ -1,3 +1,6 @@
+# Desc
+Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi game v.45. 
+
 # Want To do
 * 16/01/24
   * Tambah
