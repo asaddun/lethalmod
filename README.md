@@ -1,25 +1,27 @@
 # Desc
-Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi game v.45. 
+Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi game v49. 
 
-# Want To do
-* 16/01/24
+# Log
+* 19/01/24
+  * Update ke v49
   * Tambah
-    * Masked Overhaul (ide)
-
-* 11/01/24
-  * Tambah
-    * Custom Boombox Music (Taruh file musik dalam folder yang tersedia `BepInEx\Custom Songs\Boombox Music`)
-    * Boombox Autonext
-
-* 08/01/24
-  * Tambah
-    * Suit (Adventure Time, Naruto, Bracken)
+    * Masked Overhaul
+    * TooManyEmotes
+    * Suit (Adventure Time, Naruto)
     * HD Lethal Company
   * Hapus
     * AdditionalSuits dan folder resAdditionalSuits
-
-# Log
+    * Hololive Suits (Sementara)
 * 14/01/24
   * Tambah
       * LateCompany (Join tanpa restart)
 * 07/01/24
+
+# Want To do
+* Tambah
+  * Custom Boombox Music (Taruh file musik dalam folder yang tersedia `BepInEx\Custom Songs\Boombox Music`)
+  * Boombox Autonext
+    
+  
+
+
