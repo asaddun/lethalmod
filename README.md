@@ -6,8 +6,6 @@ Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi g
   * Tambah
     * Hololive Suits
     * LC Masked Fix
-    * Masked AI Revamp
-    * LethalNetwork API (untuk mod Masked AI Revamp)
   * Hapus
     * Suits (Adventure Time dan Naruto (tidak bisa pake suit lain karena Hololive Replacement))
 * 19/01/24
