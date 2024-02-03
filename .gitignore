@@ -2,6 +2,7 @@
 /*/
 !/BepInEx/
 /BepInEx/cache/*
+/BepInEx/config/BepInEx.cfg
 /BepInEx/config/controls/*
 /BepInEx/plugins/LethalCompanyInputUtils/*
 /BepInEx/plugins/Walkie.dll
