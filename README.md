@@ -2,11 +2,15 @@
 Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi game v49. 
 
 # Log
+* 03/02/24
+    * Hapus
+        * Roomba Mines
 * 02/02/24
     * Tambah
         * Gambling Machine
         * Roomba Mines
         * Coil Head Stare
+        * Scopophobia
 * 22/01/24
     * Tambah
         * Hololive Suits
