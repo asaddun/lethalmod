@@ -1,6 +1,7 @@
 /*
 /*/
 !/BepInEx/
+/BepInEx/LogOutput.log
 /BepInEx/cache/*
 /BepInEx/config/BepInEx.cfg
 /BepInEx/config/controls/*
