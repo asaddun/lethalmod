@@ -7,6 +7,7 @@ Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi g
         * LC Sound Tool
         * Custom Sounds
         * Lethal Resonance
+        * Custom Death Message
     * Hapus
         * Roomba Mines
 * 02/02/24
