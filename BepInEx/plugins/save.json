@@ -1898,6 +1898,11 @@
       "Weight": 10
     },
     {
+      "Word": "Shells",
+      "Children": [],
+      "Weight": 10
+    },
+    {
       "Word": "Jetpack",
       "Children": [],
       "Weight": 10
@@ -2803,7 +2808,6 @@
   ],
   "History": {
     "value": [
-      "Store",
       "Flashlight",
       "Deny",
       "View",
@@ -2813,7 +2817,10 @@
       "Manticoil",
       "bes",
       "Bestiary",
-      "BunkerSpider"
+      "BunkerSpider",
+      "Shells",
+      "d",
+      "Store"
     ]
   },
   "CommandsBlacklist": [
