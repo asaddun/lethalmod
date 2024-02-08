@@ -2,13 +2,21 @@
 Mod File yang digunakan untuk bermain Lethal Company, saat ini berada di versi game v49. 
 
 # Log
-* 04/02/24
+* 08/02/24
+    * Update
+        * BepInEx (5.4.21 -> 5.4.22)
+        * MoreCompany (1.7.4 -> 1.8.0)
     * Tambah
         * LC Sound Tool
         * Custom Sounds
+        * LCMaxSoundFix
         * Lethal Resonance
         * Custom Death Message
         * Crosshair
+        * Terminal TP
+        * Lock Door
+        * Terminal AutoComplete
+        * Buyable Shotgun Shells
     * Hapus
         * Roomba Mines
 * 02/02/24
